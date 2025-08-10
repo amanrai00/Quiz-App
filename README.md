@@ -77,7 +77,7 @@ Languages: English, Hindi, Nepali, Japanese (N3)
 
 ## Preview
 
-![App Screenshot](images/screenshot1.png)
-(images/screenshot2.png)
-(images/screenshot3.png)
+![App Screenshot 1](images/screenshot1.png)
+![App Screenshot 2](images/screenshot2.png)
+![App Screenshot 3](images/screenshot3.png)
 

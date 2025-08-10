@@ -75,7 +75,8 @@ JavaScript を学習中の初心者 Web 開発者
 
 ## プレビュー
 
-![アプリのスクリーンショット](images/screenshot1.png)
-(images/screenshot2.png)
-(images/screenshot3.png)
+![アプリのスクリーンショット1](images/screenshot1.png)
+![アプリのスクリーンショット2](images/screenshot2.png)
+![アプリのスクリーンショット3](images/screenshot3.png)
+
 ---
