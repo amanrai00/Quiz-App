@@ -68,9 +68,9 @@ Quiz-App/
 
 ## Author
 
-**Aman Rai**
-Beginner Web Developer learning JavaScript
-Currently living in **Tokyo, Japan**
+**Aman Rai**  
+Beginner Web Developer learning JavaScript  
+Currently living in **Tokyo, Japan**  
 Languages: English, Hindi, Nepali, Japanese (N3)
 
 ---
