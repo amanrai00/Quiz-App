@@ -56,6 +56,12 @@ Quiz-App/
 
 ---
 
+## Live Demo
+
+[🔗 View Demo](https://quizapp1630.netlify.app)
+
+---
+
 ## Future Plans
 
 * Add a countdown timer for each question
